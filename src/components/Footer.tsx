@@ -96,7 +96,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-12 pt-8 text-center">
           <p className="text-primary-foreground/60">
-            © 2024 Krishi Mitr. All rights reserved. | Designed with ❤️ for Indian farmers
+            © 2024 Krishi Mitr. All rights reserved. | Designed for Indian farmers
           </p>
         </div>
       </div>

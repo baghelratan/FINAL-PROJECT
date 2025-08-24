@@ -1,0 +1,11 @@
+{
+  "appId": "com.smartfarming.app",
+  "appName": "Smart Farming",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
+
+
